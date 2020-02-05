@@ -131,3 +131,5 @@ protected:
 
 
 //Abstract Factory also known as kit...
+//Hard to add new type
+//Replaceing to anoter type is easy
