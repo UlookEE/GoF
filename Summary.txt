@@ -1,3 +1,4 @@
 1. Abstract Factory : 제품 군을 변경할 때 이용.
 2. Builder : 객체의 사용처와 구현을 분리 ->> 분할 구현에 용이
 3. Factory Method : Default Factory를 구현, Default Factory를 상속하여 필요한 부분만 Override
+4. Prototype : Runtime에 프로토타입 추가 가능, 얕,깊 복사 문제 해결, 서브클래스의 수 또한 줄어들음
